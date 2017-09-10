@@ -1,4 +1,4 @@
-requirejs.config({
+requirejs.config({ // eslint-disable-line no-undef
   paths: { // fara .js la sfarsit!!
     'ramda': '/node_modules/ramda/dist/ramda.min',
     'jquery': '/node_modules/jquery/dist/jquery.min'
