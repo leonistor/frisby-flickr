@@ -1,0 +1,24 @@
+{
+  "name": "frisby-flickr",
+  "version": "1.0.0",
+  "description": "Professor Frisby Flickr Search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonistor/frisby-flickr.git"
+  },
+  "keywords": [],
+  "author": "Leo Nistor <leo.nistor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonistor/frisby-flickr/issues"
+  },
+  "homepage": "https://github.com/leonistor/frisby-flickr#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0"
+  }
+}
