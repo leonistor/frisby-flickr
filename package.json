@@ -19,6 +19,12 @@
   "homepage": "https://github.com/leonistor/frisby-flickr#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.6.0"
+    "babel-preset-env": "^1.6.0",
+    "standard": "^10.0.3"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "ramda": "^0.24.1",
+    "requirejs": "^2.3.5"
   }
 }
